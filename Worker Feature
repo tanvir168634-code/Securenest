@@ -1,0 +1,10 @@
+For Building Owners:
+•	Account registration and login using NID.
+•	Registering buildings and flats with accurate location details.
+•	Adding, updating, and deleting tenant and domestic worker information.
+•	Assigning tenants and workers to specific flats.
+•	Viewing complete details of registered buildings, flats, tenants, and workers through a dashboard.
+•	Accessing a “Show All Info” table with search and filter functionalities.
+•	Managing personal profile information (view and edit).
+•	Password recovery through OTP/code verification.
+•	Secure logout functionality
